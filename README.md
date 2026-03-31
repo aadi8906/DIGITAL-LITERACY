@@ -2,9 +2,9 @@
 
 ## Student Details
 - Name: Aadi Agarwal  
-- Registration Number: (Add your reg no.)  
-- Branch: (Your branch)  
-- Year: 1st Year B.Tech  
+- Registration Number: 22BCE11517 
+- Branch: Computer Science and Engineering (CSE)
+- Graduation Year: 2026  
 - Course: CSE0001 – Digital Literacy  
 
 ---
