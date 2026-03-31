@@ -1,1 +1,24 @@
+# 🚨 Cybercrime Case Study: UPI Payment Fraud in India
 
+## 📌 Overview
+UPI (Unified Payments Interface) fraud is a rapidly increasing cybercrime in India where attackers trick users into authorizing payments instead of receiving money.
+
+## 🧠 How the Fraud Happens
+A common scenario involves a student selling an item online (e.g., books or gadgets). The scammer contacts the student pretending to be a buyer and agrees to pay via UPI.
+
+Instead of sending money, the scammer sends a **“Collect Request”** on apps like Google Pay or PhonePe. They instruct the student to “accept” the request to receive payment. Due to lack of awareness, the student enters their UPI PIN, unknowingly **authorizing a payment** to the scammer.
+
+In some cases, fraudsters also send fake screenshots showing “payment successful” to gain trust. Others may pose as customer support agents and ask users to install screen-sharing apps, gaining access to banking details.
+
+## 🎯 Target Victims
+- College students  
+- First-time digital payment users  
+- People unfamiliar with UPI features  
+
+## ⚠️ Consequences
+- Immediate financial loss  
+- Unauthorized transactions  
+- Compromise of personal and banking data  
+
+## 💡 Key Insight
+UPI apps never require entering a PIN to **receive** money — only to **send** money. Lack of awareness of this basic rule is what makes users vulnerable to such scams.
